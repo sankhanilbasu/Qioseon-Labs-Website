@@ -1,0 +1,8 @@
+{
+  "name": "qioseon-labs",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^8.1.1"
+  }
+}
